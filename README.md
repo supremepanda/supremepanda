@@ -10,6 +10,5 @@ Hi there!👋
 > https://github.com/supremepanda/supremepanda/blob/master/molyJump.md
 
 #### Hyper-casual Games that I Worked
-
-    link
+> https://github.com/supremepanda/supremepanda/blob/master/hyperCasualGames.md
 
