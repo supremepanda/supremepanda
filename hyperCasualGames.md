@@ -2,11 +2,23 @@
 
 I can list the projects that I took part in the development as follows:
 
+**Touchdown Blitz:** 
+> https://apps.apple.com/us/app/touchdown-blitz/id1584308863
+
+**Evolving Run:** 
+> https://apps.apple.com/lt/app/evolving-run/id1589089984
+
+**Beauty Startup:** 
+> https://apps.apple.com/us/app/beauty-startup/id1601180835
+
 **Fishing Universe**
 > https://apps.apple.com/tt/app/fishing-universe/id1625246508
 
 **Money Clerk**
 > https://apps.apple.com/tt/app/money-clerk/id1618927585
+
+**Demolish Ramp**
+> https://apps.apple.com/us/app/demolish-ramp/id1610342327
 
 **Slice and Grow**
 > https://apps.apple.com/tt/app/slice-and-grow/id1617244361
@@ -20,9 +32,6 @@ I can list the projects that I took part in the development as follows:
 **Merge Vehicles**
 > https://apps.apple.com/us/app/merge-vehicles/id1611979759
 
-**Demolish Ramp**
-> https://apps.apple.com/us/app/demolish-ramp/id1610342327
-
 **Hair Shifter**
 > https://apps.apple.com/tt/app/hair-shifter/id1609061165
 
@@ -35,20 +44,11 @@ I can list the projects that I took part in the development as follows:
 **Evolve Adventure!:** 
 > https://apps.apple.com/us/app/evolve-adventure/id1602978849
 
-**Beauty Startup:** 
-> https://apps.apple.com/us/app/beauty-startup/id1601180835
-
 **Color Gang:** 
 > https://apps.apple.com/us/app/color-gang/id1597660191
 
 **Minion Guard:** 
 > https://apps.apple.com/us/app/minion-guard/id1599738166
-
-**Touchdown Blitz:** 
-> https://apps.apple.com/us/app/touchdown-blitz/id1584308863
-
-**Evolving Run:** 
-> https://apps.apple.com/lt/app/evolving-run/id1589089984
 
 **Daruma Run:** 
 > https://apps.apple.com/cy/app/daruma-run/id1593209732?l=tr
