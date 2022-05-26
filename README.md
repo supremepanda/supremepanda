@@ -12,3 +12,5 @@ Hi there!👋
 #### Hyper-casual Games
 > https://github.com/supremepanda/supremepanda/blob/master/hyperCasualGames.md
 
+## Open-source Projects
+📖 Feel free to examine my public repositories. 
