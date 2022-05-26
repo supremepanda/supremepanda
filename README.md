@@ -3,7 +3,8 @@ Hi there!👋
 - 🤾‍♂️ As a game developer I am interested in interactive digital games.
 - 📱 Also I am working on hyper-casual games now.
 - 🧰 Editor tools fun!
-- [📬](furkanbaldir13@gmail.com) If you have a question, feel free to contact me! 
+- 📬 If you have a question, feel free to contact me! <img src="linkedin.png" href="https://www.linkedin.com/in/furkanbaldir/" width="20" height="20"> <img src="gmail.png" href="furkanbaldir13@gmail.com" width="20" height="20">
+
 
 ## Work Experience
 #### The Moly Jump
