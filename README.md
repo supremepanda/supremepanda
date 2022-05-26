@@ -3,7 +3,7 @@ Hi there!👋
 - 🤾‍♂️ As a game developer I am interested in interactive digital games.
 - 📱 Also I am working on hyper-casual games now.
 - 🧰 Editor tools fun!
-- 📬 If you have a question, feel free to contact me! <img src="linkedin.png" href="https://www.linkedin.com/in/furkanbaldir/" width="20" height="20"> <img src="gmail.png" href="furkanbaldir13@gmail.com" width="20" height="20">
+- 📬 If you have a question, feel free to contact me! <img src="linkedin.png" href="https://www.linkedin.com/in/furkanbaldir/" target="_blank" width="20" height="20"> <img src="gmail.png" href="furkanbaldir13@gmail.com" target="_blank" width="20" height="20">
 
 
 ## Work Experience
