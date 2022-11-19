@@ -2,6 +2,16 @@
 
 I can list the projects that I took part in the development as follows:
 
+## With Wixot
+
+**Arm Gun Stack**
+> https://apps.apple.com/us/app/arm-gun-stack/id6443845933
+
+**Run and Gun!**
+> https://apps.apple.com/us/app/run-and-gun/id1642939213
+
+## With Gigantic Games
+
 **Base Defense!**
 > https://apps.apple.com/tr/app/base-defense/id1628006501
 
