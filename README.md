@@ -10,8 +10,8 @@ Hi there!👋
 #### The Moly Jump
 > [Moly Jump](https://github.com/supremepanda/supremepanda/blob/master/molyJump.md)
 
-#### Hyper-casual Games
-> [List of hyper-casual games](https://github.com/supremepanda/supremepanda/blob/master/hyperCasualGames.md)
+#### Working Projects
+> [List of games](https://github.com/supremepanda/supremepanda/blob/master/games.md)
 
 ## Open-source Projects
 📖 Feel free to examine my public repositories. 
