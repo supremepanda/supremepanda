@@ -1,21 +1,20 @@
-## Hyper-casual Projects 
+## Games
 
 I can list the projects that I took part in the development as follows:
 
 ## With Wixot
 
-**Arm Gun Stack**
-> https://apps.apple.com/us/app/arm-gun-stack/id6443845933
+**Journey Home** (Casual Project)
+> https://apps.apple.com/tr/app/journey-home-merge-stories/id1635526159
 
-**Run and Gun!**
-> https://apps.apple.com/us/app/run-and-gun/id1642939213
+I made also **Run and Gun!**, **Knife Grind Master** and **Arm Gun Stack** but links are broken
 
 ## With Gigantic Games
 
-**Base Defense!**
+**Base Defense!** 
 > https://apps.apple.com/tr/app/base-defense/id1628006501
 
-**Touchdown Blitz:** 
+**Touchdown Blitz:**
 > https://apps.apple.com/us/app/touchdown-blitz/id1584308863
 
 **Evolving Run:** 
